@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/AgrimaVerma14/github_badges.git
 git push -u origin main
+
+update2
